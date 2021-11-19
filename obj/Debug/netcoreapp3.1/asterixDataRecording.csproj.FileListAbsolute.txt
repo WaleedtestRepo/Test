@@ -1,0 +1,87 @@
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfoInputs.cache
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfo.cs
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.exe
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.deps.json
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.json
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.dev.json
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed CTR Maqsood\source\repos\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csprojAssemblyReference.cache
+E:\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.exe
+E:\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.deps.json
+E:\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.json
+E:\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.dev.json
+E:\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.dll
+E:\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.pdb
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csprojAssemblyReference.cache
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfoInputs.cache
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfo.cs
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CoreCompileInputs.cache
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.dll
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.pdb
+E:\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.genruntimeconfig.cache
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csprojAssemblyReference.cache
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfoInputs.cache
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfo.cs
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CoreCompileInputs.cache
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.exe
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.deps.json
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.json
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.dev.json
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed Maqsood\Desktop\OLder\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.genruntimeconfig.cache
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfoInputs.cache
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfo.cs
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CoreCompileInputs.cache
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.exe
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.deps.json
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.json
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.dev.json
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CopyComplete
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.genruntimeconfig.cache
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csprojAssemblyReference.cache
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Waleed Maqsood\Desktop\asterixDataRecording\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.exe
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.deps.json
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.json
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.dev.json
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.dll
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.pdb
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfoInputs.cache
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfo.cs
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CoreCompileInputs.cache
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CopyComplete
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.dll
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.pdb
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.genruntimeconfig.cache
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.AssemblyReference.cache
+D:\ListOfProjects\ASTERIXUTILITY\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.exe
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.deps.json
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.json
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.runtimeconfig.dev.json
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.AssemblyReference.cache
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfoInputs.cache
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.AssemblyInfo.cs
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CoreCompileInputs.cache
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.csproj.CopyComplete
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.dll
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.pdb
+C:\Users\Waleed Maqsood\Desktop\Code\asterixDataRecording\obj\Debug\netcoreapp3.1\asterixDataRecording.genruntimeconfig.cache

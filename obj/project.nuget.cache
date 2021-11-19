@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9eMn7BpmBa1RDjjXJ/M4WSen5EBPVfw/4Rup4zLg3IjWLtX/lSNFRK+dXrsJdD62h9oYircNWpCkAKXGd2i0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Waleed Maqsood\\Desktop\\Code\\asterixDataRecording\\asterixDataRecording.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waleed Maqsood\\.nuget\\packages\\documentformat.openxml\\2.13.0\\documentformat.openxml.2.13.0.nupkg.sha512",
+    "C:\\Users\\Waleed Maqsood\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
