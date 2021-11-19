@@ -8,7 +8,6 @@ using System.Linq;
 namespace asterixDataRecording
 {
     //This class Reads Packets from File in String
-
     class UdpPacketsFromFile
     {
         //Ether net Header and UDP Header Length is fixed 
@@ -29,7 +28,6 @@ namespace asterixDataRecording
         private List<string> dataUnitCRC_List = new List<string>();
         private List<string> computedCRC_List = new List<string>();
         private List<bool> matchCRC_List = new List<bool>();
-
         public List<Ipv4Header> Ipv4_Header_List
         {
             get { return ipv4_Header_List; }
@@ -58,7 +56,6 @@ namespace asterixDataRecording
         {
             get { return matchCRC_List; }
         }
-
         public void ReadFromFile()
         {
             List<string> time = new List<string>();
@@ -69,13 +66,11 @@ namespace asterixDataRecording
 
             for (int i = 0; i < lines.Count; i++)
             {
-
                 if (i % 2 == 0)
                 {
                     time.Add(lines[i]);
 
                 }
-
             }
 
             for (int i = 0; i < lines.Count; i++)
@@ -84,7 +79,6 @@ namespace asterixDataRecording
              
                 if (i % 2 != 0)
                 {
-
                     singlePacket = lines[i].Split("|").ToList();
 
                     String ethernetHeader_Hex = string.Empty;
@@ -177,7 +171,6 @@ namespace asterixDataRecording
 
             }
         }
-
         public static Queue<byte> convertToByte(String dataToBeConverted)
         {
             Queue<byte> datainQueuebytes = new Queue<byte>();
@@ -189,14 +182,10 @@ namespace asterixDataRecording
 
             datainQueuebytes = new Queue<byte>(inputAsBytes);
 
-
-
             return datainQueuebytes;
         }
-
         private int CalculateIpv4HederLength(List<string> singlePacket)
         {
-
             int ipv4HeaderLength;
             //The header Size along with Version of IPV4 is in the first field IHL
             String ipv4HeaderFirstField = singlePacket[16];
@@ -206,15 +195,6 @@ namespace asterixDataRecording
             ipv4HeaderLength = (Int32.Parse(versionAndLengthField[1].ToString()) * 4);
 
             return ipv4HeaderLength;
-
-
         }
-
-
-
-
-
-
     }
-
 }

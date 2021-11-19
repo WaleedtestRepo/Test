@@ -10,13 +10,10 @@ namespace asterixDataRecording
         Queue<byte> inputAsBytes;
         public int SourcePort { get; private set; }
         public int DestPort { get; private set; }
-
         public UdpHeader(Queue<byte> inputAsBytes)
         {
             this.inputAsBytes = inputAsBytes;
-
         }
-
         public void Parse()
         {
             byte byte1, byte2;
@@ -30,10 +27,5 @@ namespace asterixDataRecording
             result = (byte1 << 8) | byte2;
             DestPort = result;
         }
-
-
-
-
-
     }
 }

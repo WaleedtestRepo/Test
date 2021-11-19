@@ -12,12 +12,10 @@ namespace asterixDataRecording
         private Queue<byte> inputAsBytes;
         public String SourceAddr { get; private set; }
         public String DestAddr { get; private set; }
-       
         public Ipv4Header(Queue<byte> inputAsBytes)
         {
             this.inputAsBytes = inputAsBytes;
         }
-
         public void Parse()
         {
             byte byte1, byte2, byte3, byte4;
@@ -47,7 +45,6 @@ namespace asterixDataRecording
             DestAddr = ip.ToString();
             // Console.WriteLine(DestAddr);
         }
-
 
     }
 }

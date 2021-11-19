@@ -9,7 +9,6 @@ namespace asterixDataRecording
 {
     class UdpPayloadCat048
     {
-
         private Queue<byte> inputAsBytes;
         public int SequenceNumber { get; private set; }
         public byte Category { get; private set; }
@@ -38,7 +37,6 @@ namespace asterixDataRecording
             this.inputAsBytes = inputAsBytes;
 
         }
-
         public void Parse()
         {
             byte FSPEC, byte1, byte2, byte3, byte4;
@@ -115,8 +113,7 @@ namespace asterixDataRecording
             if (FRN[1])
             {
                 SAC = inputAsBytes.Dequeue();
-                SIC = inputAsBytes.Dequeue();
-               
+                SIC = inputAsBytes.Dequeue();             
             }
 
             if (FRN[2])
@@ -130,7 +127,6 @@ namespace asterixDataRecording
                 result = (result << 8) | byte3;
 
                 TimeOFtheDay = (decimal)result / 128;
-
             }
 
             if (FRN[3])
@@ -211,7 +207,6 @@ namespace asterixDataRecording
                     
                     if (result2 == 0)
                     {
-
                         TST = "Real Target Report";
                         // Console.WriteLine(TST);
                     }
@@ -244,7 +239,6 @@ namespace asterixDataRecording
 
                 // Console.WriteLine("Azimuth(Deg): " + AzimuthDeg);
                 // Console.WriteLine("Azimuth(ACP): " + AzimuthACP);
-
             }
 
             if (FRN[5])
@@ -319,7 +313,6 @@ namespace asterixDataRecording
 
                 if (secondBit == 0)
                 {
-
                     ModeCG = "Default";
                     // Console.WriteLine(ModeCG);
                 }
@@ -393,14 +386,11 @@ namespace asterixDataRecording
                 }
             }
             // Console.WriteLine("=========================================================================================");
-
         }
-
         private int CombineTwoBytes(byte Byte1, byte Byte2)
         {
             int block = (Byte1 << 8) | Byte2; ;
             return block;
-
         }
     }
 }

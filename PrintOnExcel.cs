@@ -21,7 +21,6 @@ namespace asterixDataRecording
         {
             using (SpreadsheetDocument document = SpreadsheetDocument.Create(@"C:\Users\Waleed Maqsood\Desktop\AS\Text.xlsx", SpreadsheetDocumentType.Workbook))
             {
-                
                 WorkbookPart workbookPart = document.AddWorkbookPart();
                 workbookPart.Workbook = new Workbook();
                 WorksheetPart worksheetPart = workbookPart.AddNewPart<WorksheetPart>();
@@ -57,6 +56,7 @@ namespace asterixDataRecording
                         {
                             cell.DataType = CellValues.Number;
                         }
+                      
                         else
                         {
                             cell.DataType = CellValues.String;
@@ -65,12 +65,13 @@ namespace asterixDataRecording
                         cell.CellValue = new CellValue(dsrow[col].ToString());
                         newRow.AppendChild(cell);
                     }
+
                         sheetData.AppendChild(newRow);
                 }
+
                         workbookPart.Workbook.Save();
             }
         }
-
         public static bool IsDouble(string s)
         {
             double dOutput = 0;

@@ -6,7 +6,6 @@ namespace asterixDataRecording
 {
     class Main1
     {
-
         static void Main(string[] args)
         {
             UdpPacketsFromFile packetsFromFile = new UdpPacketsFromFile();
@@ -24,9 +23,6 @@ namespace asterixDataRecording
             sw.Start();
             sw.Stop();
             Console.WriteLine("Elapsed={0}", sw.Elapsed);
-
-
-
         }
     }
 }
